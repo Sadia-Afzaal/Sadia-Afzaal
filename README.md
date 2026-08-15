@@ -2,24 +2,19 @@
 
 > I am a passionate **Full-Stack Developer and BSCS student** from Pakistan. I build responsive, user-friendly web and mobile applications using **React, Node.js, Express, Flask, Django, and Flutter**. I focus on writing clean code, shipping real-world projects, and continuously improving as a developer.
 
-\`\`\`js
 const sadia = {
   role: "Full-Stack Developer",
   location: "Gujrat, Pakistan",
   education: "BS Computer Science, University of Gujrat",
-
   frontend: ["React", "Vite", "Tailwind CSS", "Flutter"],
   backend: ["Node.js", "Express", "Flask", "Django"],
   data: ["MongoDB", "SQLite", "Scikit-learn"],
-
   experience: [
     "Full-Stack Developer Intern @ CodeAlpha",
     "Full-Stack Developer Intern @ DecodeLabs"
   ],
-
   openTo: "Freelance work • Remote internships • Collaboration"
 };
-\`\`\`
 
 ## 🛠️ Tech Stack
 
