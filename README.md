@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi, I'm Sadia Afzaal 👋</h1>
 
 <p align="center">
@@ -142,4 +141,3 @@ const sadia = {
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sadia-Afzaal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-```
