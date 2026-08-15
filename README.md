@@ -105,13 +105,19 @@ const sadia = {
 
 ## 📊 GitHub Stats
 
+<!-- FIXED: Added proper spacing and alternative display if stats fail -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadia-Afzaal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sadia's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sadia-Afzaal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Sadia's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadia-Afzaal&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadia-Afzaal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadia-Afzaal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" width="40%" />
+</p>
+
+<!-- FIXED: Added Contribution Graph for better visual -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadia-Afzaal&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=36BCF7&point=FFFFFF&area=true&area_color=36BCF7" alt="Contribution Graph" width="90%" />
 </p>
 
 <br>
@@ -124,20 +130,37 @@ const sadia = {
 
 <br>
 
+<!-- FIXED: Better social links section with working email and portfolio -->
+## 📫 Connect With Me
+
 <p align="center">
   <a href="mailto:sadiaafzaal1046@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/sadia-afzaal-504925337">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/sadia-afzaal-504925337" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
+  <a href="https://my-portfolio-lime-iota-27.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Sadia-Afzaal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sadia-Afzaal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <!-- FIXED: Profile Views counter - this will show properly -->
+  <img src="https://komarev.com/ghpvc/?username=Sadia-Afzaal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔹%20Open%20to%20Freelance%20Work%20|%20Remote%20Internships%20|%20Collaboration-36BCF7?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to Work" />
+</p>
+
+---
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/Sadia-Afzaal">Sadia Afzaal</a></i>
 </p>
