@@ -105,22 +105,21 @@ const sadia = {
 
 ## 📊 GitHub Stats
 
-<!-- FIXED: Added proper spacing and alternative display if stats fail -->
+<!-- Option 1: Standard Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadia-Afzaal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Sadia's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadia-Afzaal&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sadia-Afzaal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="Sadia's GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadia-Afzaal&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="45%" />
 </p>
 
+<!-- Option 2: Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadia-Afzaal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadia-Afzaal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10&cache_seconds=0" alt="Top Languages" width="40%" />
 </p>
 
-<!-- FIXED: Added Contribution Graph for better visual -->
+<!-- Option 3: Contribution Graph (Best Visual) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadia-Afzaal&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=36BCF7&point=FFFFFF&area=true&area_color=36BCF7" alt="Contribution Graph" width="90%" />
 </p>
-
-<br>
 
 ---
 
