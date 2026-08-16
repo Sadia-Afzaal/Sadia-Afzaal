@@ -123,35 +123,8 @@ const sadia = {
 
 <br>
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:sadiaafzaal1046@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sadia-afzaal-504925337" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://my-portfolio-lime-iota-27.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/Sadia-Afzaal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sadia-Afzaal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Freelance%20Work%20•%20Remote%20Internships%20•%20Collaboration-36BCF7?style=for-the-badge&logo=rocket&logoColor=white" />
-</p>
-
----
-
-<p align="center">
-  ⭐️ From <a href="https://github.com/Sadia-Afzaal">Sadia Afzaal</a>
-</p>
+📫 Connect With Me
+<p align="center"> <a href="mailto:sadiaafzaal1046@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> <a href="https://www.linkedin.com/in/sadia-afzaal-504925337" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://my-portfolio-lime-iota-27.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a> <a href="https://github.com/Sadia-Afzaal" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sadia-Afzaal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/🚀%20Open%20to-Freelance%20Work%20•%20Remote%20Internships%20•%20Collaboration-36BCF7?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to Work" /> </p>
+<p align="center"> <i>⭐️ From <a href="https://github.com/Sadia-Afzaal">Sadia Afzaal</a></i> </p>
