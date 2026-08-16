@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi, I'm Sadia Afzaal 👋</h1>
 
 <p align="center">
@@ -24,19 +25,133 @@ const sadia = {
   ],
   openTo: "Freelance work • Remote internships • Collaboration"
 };
+```
 
-🛠️ Tech Stack
-<p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <br> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
+<br>
 
-📌 Featured Projects
-<table> <tr> <td width="50%" valign="top"> <h3>🛒 Aurora – E-Commerce Store</h3> <p> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /> </p> <p>A full-featured e-commerce store built with Django during my CodeAlpha internship.</p> </td> <td width="50%" valign="top"> <h3>💬 Mini Social – Social Media Platform</h3> <p> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /> </p> <p>A social media platform with a Node.js/Express backend and SQLite storage, built during my CodeAlpha internship.</p> </td> </tr> <tr> <td width="50%" valign="top"> <h3>🔍 FraudGuard</h3> <p> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> </p> <p>Fraud detection dashboard powered by five ML classifiers (React frontend, Flask API). My strongest project.</p> </td> <td width="50%" valign="top"> <h3>🌍 EcoVerse</h3> <p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> </p> <p>Interactive eco-awareness website exploring ecosystems through visual, data-driven cards.</p> </td> </tr> <tr> <td width="50%" valign="top" colspan="2" align="center"> <h3>💼 Portfolio Website</h3> <p> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" /> </p> <p>My personal portfolio showcasing my projects, skills, and experience.</p> </td> </tr> </table>
+## 🛠️ Tech Stack
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadia-Afzaal&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=36BCF7&point=FFFFFF&area=true&area_color=36BCF7" alt="Contribution Graph" width="95%" /> </p>
-<p align="center"> <strong>🚀 Building full-stack applications, one project at a time.</strong> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-📫 Connect With Me
-<p align="center"> <a href="mailto:sadiaafzaal1046@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> <a href="https://www.linkedin.com/in/sadia-afzaal-504925337" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://my-portfolio-lime-iota-27.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a> <a href="https://github.com/Sadia-Afzaal" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sadia-Afzaal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> </p>
-<p align="center"> <img src="https://img.shields.io/badge/🚀%20Open%20to-Freelance%20Work%20•%20Remote%20Internships%20•%20Collaboration-36BCF7?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to Work" /> </p>
-<p align="center"> <i>⭐️ From <a href="https://github.com/Sadia-Afzaal">Sadia Afzaal</a></i> </p> 
+<br>
+
+## 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 Aurora – E-Commerce Store</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      </p>
+      <p>A full-featured e-commerce store built with Django during my CodeAlpha internship.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 Mini Social – Social Media Platform</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      </p>
+      <p>A social media platform with a Node.js/Express backend and SQLite storage, built during my CodeAlpha internship.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 FraudGuard</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      </p>
+      <p>Fraud detection dashboard powered by five ML classifiers (React frontend, Flask API). My strongest project.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌍 EcoVerse</h3>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <p>Interactive eco-awareness website exploring ecosystems through visual, data-driven cards.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" colspan="2" align="center">
+      <h3>💼 Portfolio Website</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+      <p>My personal portfolio showcasing my projects, skills, and experience.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 📊 GitHub Stats
+
+<!-- REMOVED: Unreliable stats widgets that keep failing -->
+<!-- KEPT: Only the contribution graph which works consistently -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadia-Afzaal&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=36BCF7&point=FFFFFF&area=true&area_color=36BCF7" alt="Contribution Graph" width="95%" />
+</p>
+
+<br>
+
+---
+
+<p align="center">
+  <strong>🚀 Building full-stack applications, one project at a time.</strong>
+</p>
+
+<br>
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:sadiaafzaal1046@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sadia-afzaal-504925337" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://my-portfolio-lime-iota-27.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sadia-Afzaal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sadia-Afzaal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Freelance%20Work%20•%20Remote%20Internships%20•%20Collaboration-36BCF7?style=for-the-badge&logo=rocket&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/Sadia-Afzaal">Sadia Afzaal</a>
+</p>
